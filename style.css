@@ -37,5 +37,15 @@
 }
 
 .flexNavRight{
-    
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.flexNavRightItem{
+    margin-left: 10px;
+    margin-right: 10px;
 }
